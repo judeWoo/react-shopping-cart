@@ -1,4 +1,4 @@
-# [React Shopping Cart](https://www.notion.so/101-70e87a00f5314e7b80d54033a2c2219d)
+# React Shopping Cart
 
 이 프로젝트는 [Create React App](https://github.com/facebook/create-react-app)을 부트스트랩해서 만들었습니다.
 
